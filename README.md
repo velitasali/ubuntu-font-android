@@ -4,7 +4,7 @@ This is a modified version of Ubuntu Regular True Type Font for Android Ecosyste
 I used Roboto Regular font as the base. FontForge and FontCreator were the programs, I edited this font with.   
 
 ## Downloads
-[Download as TTF file](Ubuntu Font.ttf) or [FlipFont APK (Samsung, ASUS)](Ubuntu Font_FlipFont.apk)
+[Download as TTF file](Ubuntu_Font.ttf) or [FlipFont APK (Samsung, ASUS)](Ubuntu_Font_FlipFont.apk)
 
 ## Screenshots
 [<img src="screenshots/1.png" width=160>](screenshots/1.png)
